@@ -6,4 +6,4 @@ python3 -m pip install --upgrade pip
 2:installation:
 python3 -m pip install --upgrade telethon
 more:
-https://docs.telethon.dev/en/stable/
+[Telethon](https://docs.telethon.dev/en/stable/)
