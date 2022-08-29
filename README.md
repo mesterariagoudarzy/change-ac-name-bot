@@ -12,4 +12,3 @@ python3 -m pip install --upgrade telethon
 
 more :
 [Telethon](https://docs.telethon.dev/en/stable/)
-git tag <Telethon>
